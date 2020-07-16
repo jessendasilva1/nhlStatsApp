@@ -1,0 +1,16 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  font-family: 'Play', sans-serif;
+}
+
+#mainDiv{
+    display: flex;
+    background-image: url('../src/static/ice-hockey-background.jpg');
+    background-position: center;
+    background-repeat: repeat-y;
+    min-height: 100vh;
+    height: fit-content;
+}

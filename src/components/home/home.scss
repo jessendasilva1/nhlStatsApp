@@ -1,0 +1,27 @@
+$textColor: blue;
+
+#homeDiv{
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: fit-content;
+}
+
+#mainHeader{
+    color: $textColor;
+}
+
+#autoComplete{
+    height: 200px;
+    position: absolute;
+    width: 223.04px;
+}
+
+#teamView{
+    display: flex;
+    flex: 1;
+    justify-content: left;
+    height: fit-content;
+}
